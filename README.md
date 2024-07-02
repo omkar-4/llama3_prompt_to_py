@@ -13,11 +13,19 @@
     python -m venv myenv
 
     # linux/mac
+    ```
     source myenv/bin/activate
-    # On Windows use `myenv\Scripts\activate`
+    ```
+    
+    # On Windows use
+    ```
+    myenv\Scripts\activate`
     ```
 3. Install Dependencies
-pip install -r requirements.txt
+
+    ```
+    pip install -r requirements.txt
+    ```
 
 4. Run the Scripts (inside virtual env):
     ```

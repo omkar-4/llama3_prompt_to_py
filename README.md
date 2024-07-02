@@ -13,13 +13,14 @@
     python -m venv myenv
 
     # linux/mac
-    ```
+    `
     source myenv/bin/activate
-    ```
-    
+    `
+
     # On Windows use
-    ```
+    `
     myenv\Scripts\activate`
+    `
     ```
 3. Install Dependencies
 
